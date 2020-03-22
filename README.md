@@ -1,5 +1,7 @@
 #  unity_operation
 
+[视频链接](https://github.com/Vin1003/unity_operation/blob/master/unity_operation.mp4)
+
 - 首先需要配置unity环境，参考了[简书](https://www.jianshu.com/p/74a20243d0c4)，配置成功后在cmd中输入java，即可查看是否配置成功。
 
 ![cmd_java](https://upload-images.jianshu.io/upload_images/8399110-13f8f0cd48bae9f9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
